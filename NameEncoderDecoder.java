@@ -1,5 +1,3 @@
-package src.main.java.botTasks;
-
 public class NameEncoderDecoder {
 
     public String encode(String name) {
