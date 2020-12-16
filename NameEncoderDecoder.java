@@ -1,6 +1,6 @@
 public class NameEncoderDecoder {
 
-    public boolean encode(String name) {
+    public String encode(String name) {
         String modifiedName = name
                 .replace("e", "1")
                 .replace("u", "2")
